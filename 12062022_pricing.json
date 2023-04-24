@@ -4,7 +4,7 @@
         "country": "United States",
         "country_code": "US",
         "country_flag": "🇺🇸",
-        "sms_pricing": 0.0056,
+        "sms_pricing_values": 0.0062,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -13,7 +13,7 @@
         "country": "India",
         "country_code": "IN",
         "country_flag": "🇮🇳",
-        "sms_pricing": 0.0559,
+        "sms_pricing_values": 0.073,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -22,7 +22,7 @@
         "country": "Mexico",
         "country_code": "MX",
         "country_flag": "🇲🇽",
-        "sms_pricing": 0.0393,
+        "sms_pricing_values": 0.041,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -31,7 +31,7 @@
         "country": "Turkey",
         "country_code": "TR",
         "country_flag": "🇹🇷",
-        "sms_pricing": 0.0116,
+        "sms_pricing_values": 0.025,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -40,7 +40,7 @@
         "country": "Brazil",
         "country_code": "BR",
         "country_flag": "🇧🇷",
-        "sms_pricing": 0.04,
+        "sms_pricing_values": 0.049,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -49,7 +49,7 @@
         "country": "Japan",
         "country_code": "JP",
         "country_flag": "🇯🇵",
-        "sms_pricing": 0.0625,
+        "sms_pricing_values": 0.071,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -58,7 +58,7 @@
         "country": "China",
         "country_code": "CN",
         "country_flag": "🇨🇳",
-        "sms_pricing": 0.0227,
+        "sms_pricing_values": 0.0291,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -67,7 +67,7 @@
         "country": "Canada",
         "country_code": "CA",
         "country_flag": "🇨🇦",
-        "sms_pricing": 0.0158,
+        "sms_pricing_values": 0.0158,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -76,7 +76,7 @@
         "country": "Russia",
         "country_code": "RU",
         "country_flag": "🇷🇺",
-        "sms_pricing": 0.4228,
+        "sms_pricing_values": 0.4165,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -85,7 +85,7 @@
         "country": "Indonesia",
         "country_code": "ID",
         "country_flag": "🇮🇩",
-        "sms_pricing": 0.3416,
+        "sms_pricing_values": 0.3188,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -94,7 +94,7 @@
         "country": "France",
         "country_code": "FR",
         "country_flag": "🇫🇷",
-        "sms_pricing": "0.0840",
+        "sms_pricing_values": 0.072,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -103,7 +103,7 @@
         "country": "Vietnam",
         "country_code": "VN",
         "country_flag": "🇻🇳",
-        "sms_pricing": 0.1177,
+        "sms_pricing_values": 0.1387,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -112,7 +112,7 @@
         "country": "Colombia",
         "country_code": "CO",
         "country_flag": "🇨🇴",
-        "sms_pricing": 0.0091,
+        "sms_pricing_values": 0.039,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -121,7 +121,7 @@
         "country": "Australia",
         "country_code": "AU",
         "country_flag": "🇦🇺",
-        "sms_pricing": 0.05,
+        "sms_pricing_values": 0.047,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -130,7 +130,7 @@
         "country": "United Kingdom",
         "country_code": "GB",
         "country_flag": "🇬🇧",
-        "sms_pricing": 0.0381,
+        "sms_pricing_values": 0.0511,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -139,7 +139,7 @@
         "country": "Spain",
         "country_code": "ES",
         "country_flag": "🇪🇸",
-        "sms_pricing": 0.1068,
+        "sms_pricing_values": 0.078,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -148,7 +148,7 @@
         "country": "Philippines",
         "country_code": "PH",
         "country_flag": "🇵🇭",
-        "sms_pricing": 0.1224,
+        "sms_pricing_values": 0.1454,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -157,7 +157,7 @@
         "country": "Saudi Arabia",
         "country_code": "SA",
         "country_flag": "🇸🇦",
-        "sms_pricing": 0.0864,
+        "sms_pricing_values": 0.0897,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -166,7 +166,7 @@
         "country": "Germany",
         "country_code": "DE",
         "country_flag": "🇩🇪",
-        "sms_pricing": 0.1183,
+        "sms_pricing_values": 0.0907,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -175,7 +175,7 @@
         "country": "Italy",
         "country_code": "IT",
         "country_flag": "🇮🇹",
-        "sms_pricing": 0.0949,
+        "sms_pricing_values": 0.081,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -184,7 +184,7 @@
         "country": "United Arab Emirates",
         "country_code": "AE",
         "country_flag": "🇦🇪",
-        "sms_pricing": 0.1461,
+        "sms_pricing_values": 0.0912,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -193,7 +193,7 @@
         "country": "Puerto Rico",
         "country_code": "PR",
         "country_flag": "🇵🇷",
-        "sms_pricing": 0.0427,
+        "sms_pricing_values": 0.039,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -202,7 +202,7 @@
         "country": "Iran",
         "country_code": "IR",
         "country_flag": "🇮🇷",
-        "sms_pricing": 0.1637,
+        "sms_pricing_values": 0.1647,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -211,7 +211,7 @@
         "country": "Egypt",
         "country_code": "EG",
         "country_flag": "🇪🇬",
-        "sms_pricing": 0.1567,
+        "sms_pricing_values": 0.1497,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -220,7 +220,7 @@
         "country": "Argentina",
         "country_code": "AR",
         "country_flag": "🇦🇷",
-        "sms_pricing": 0.082,
+        "sms_pricing_values": 0.0685,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -229,7 +229,7 @@
         "country": "Pakistan",
         "country_code": "PK",
         "country_flag": "🇵🇰",
-        "sms_pricing": 0.1925,
+        "sms_pricing_values": 0.2262,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -238,7 +238,7 @@
         "country": "South Korea",
         "country_code": "KR",
         "country_flag": "🇰🇷",
-        "sms_pricing": 0.0307,
+        "sms_pricing_values": 0.0307,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -247,7 +247,7 @@
         "country": "Nigeria",
         "country_code": "NG",
         "country_flag": "🇳🇬",
-        "sms_pricing": 0.2093,
+        "sms_pricing_values": 0.1838,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -256,7 +256,7 @@
         "country": "Thailand",
         "country_code": "TH",
         "country_flag": "🇹🇭",
-        "sms_pricing": 0.0117,
+        "sms_pricing_values": 0.0253,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -265,7 +265,7 @@
         "country": "Iraq",
         "country_code": "IQ",
         "country_flag": "🇮🇶",
-        "sms_pricing": 0.1645,
+        "sms_pricing_values": 0.2212,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -274,7 +274,7 @@
         "country": "Bangladesh",
         "country_code": "BD",
         "country_flag": "🇧🇩",
-        "sms_pricing": 0.254,
+        "sms_pricing_values": 0.2375,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -283,7 +283,7 @@
         "country": "Peru",
         "country_code": "PE",
         "country_flag": "🇵🇪",
-        "sms_pricing": 0.0498,
+        "sms_pricing_values": 0.0533,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -292,7 +292,7 @@
         "country": "Netherlands",
         "country_code": "NL",
         "country_flag": "🇳🇱",
-        "sms_pricing": 0.136,
+        "sms_pricing_values": 0.1326,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -301,7 +301,7 @@
         "country": "South Africa",
         "country_code": "ZA",
         "country_flag": "🇿🇦",
-        "sms_pricing": 0.0204,
+        "sms_pricing_values": 0.0204,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -310,7 +310,7 @@
         "country": "Malaysia",
         "country_code": "MY",
         "country_flag": "🇲🇾",
-        "sms_pricing": 0.1015,
+        "sms_pricing_values": 0.1,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -319,7 +319,7 @@
         "country": "Ukraine",
         "country_code": "UA",
         "country_flag": "🇺🇦",
-        "sms_pricing": 0.1624,
+        "sms_pricing_values": 0.1617,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -328,7 +328,7 @@
         "country": "Poland",
         "country_code": "PL",
         "country_flag": "🇵🇱",
-        "sms_pricing": 0.0373,
+        "sms_pricing_values": 0.0376,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -337,7 +337,7 @@
         "country": "Ecuador",
         "country_code": "EC",
         "country_flag": "🇪🇨",
-        "sms_pricing": 0.139,
+        "sms_pricing_values": 0.148,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -346,7 +346,7 @@
         "country": "Chile",
         "country_code": "CL",
         "country_flag": "🇨🇱",
-        "sms_pricing": 0.053,
+        "sms_pricing_values": 0.0396,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -355,7 +355,7 @@
         "country": "Nepal",
         "country_code": "NP",
         "country_flag": "🇳🇵",
-        "sms_pricing": 0.1302,
+        "sms_pricing_values": 0.1281,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -364,7 +364,7 @@
         "country": "Kenya",
         "country_code": "KE",
         "country_flag": "🇰🇪",
-        "sms_pricing": 0.2737,
+        "sms_pricing_values": 0.3434,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -373,7 +373,7 @@
         "country": "Belgium",
         "country_code": "BE",
         "country_flag": "🇧🇪",
-        "sms_pricing": 0.1068,
+        "sms_pricing_values": 0.1058,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -382,7 +382,7 @@
         "country": "Morocco",
         "country_code": "MA",
         "country_flag": "🇲🇦",
-        "sms_pricing": 0.1874,
+        "sms_pricing_values": 0.1535,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -391,7 +391,7 @@
         "country": "Kuwait",
         "country_code": "KW",
         "country_flag": "🇰🇼",
-        "sms_pricing": 0.2009,
+        "sms_pricing_values": 0.198,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -400,7 +400,7 @@
         "country": "Singapore",
         "country_code": "SG",
         "country_flag": "🇸🇬",
-        "sms_pricing": 0.0372,
+        "sms_pricing_values": 0.0378,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -409,7 +409,7 @@
         "country": "Taiwan",
         "country_code": "TW",
         "country_flag": "🇹🇼",
-        "sms_pricing": 0.0806,
+        "sms_pricing_values": 0.0806,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -418,7 +418,7 @@
         "country": "Kazakhstan",
         "country_code": "KZ",
         "country_flag": "🇰🇿",
-        "sms_pricing": 0.1865,
+        "sms_pricing_values": 0.214,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -427,7 +427,7 @@
         "country": "Israel",
         "country_code": "IL",
         "country_flag": "🇮🇱",
-        "sms_pricing": 0.1255,
+        "sms_pricing_values": 0.1994,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -436,7 +436,7 @@
         "country": "Austria",
         "country_code": "AT",
         "country_flag": "🇦🇹",
-        "sms_pricing": 0.0553,
+        "sms_pricing_values": 0.056,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -445,7 +445,7 @@
         "country": "Venezuela",
         "country_code": "VE",
         "country_flag": "🇻🇪",
-        "sms_pricing": 0.1047,
+        "sms_pricing_values": 0.1009,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -454,7 +454,7 @@
         "country": "Algeria",
         "country_code": "DZ",
         "country_flag": "🇩🇿",
-        "sms_pricing": 0.1817,
+        "sms_pricing_values": 0.248,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -463,7 +463,7 @@
         "country": "Romania",
         "country_code": "RO",
         "country_flag": "🇷🇴",
-        "sms_pricing": 0.0765,
+        "sms_pricing_values": 0.0774,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -472,7 +472,7 @@
         "country": "Sweden",
         "country_code": "SE",
         "country_flag": "🇸🇪",
-        "sms_pricing": 0.0718,
+        "sms_pricing_values": 0.0726,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -481,7 +481,7 @@
         "country": "Ireland",
         "country_code": "IE",
         "country_flag": "🇮🇪",
-        "sms_pricing": 0.0774,
+        "sms_pricing_values": 0.0775,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -490,7 +490,7 @@
         "country": "New Zealand",
         "country_code": "NZ",
         "country_flag": "🇳🇿",
-        "sms_pricing": 0.0862,
+        "sms_pricing_values": 0.0849,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -499,7 +499,7 @@
         "country": "Costa Rica",
         "country_code": "CR",
         "country_flag": "🇨🇷",
-        "sms_pricing": 0.0476,
+        "sms_pricing_values": 0.0476,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -508,7 +508,7 @@
         "country": "Portugal",
         "country_code": "PT",
         "country_flag": "🇵🇹",
-        "sms_pricing": 0.0376,
+        "sms_pricing_values": 0.038,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -517,7 +517,7 @@
         "country": "Hong Kong",
         "country_code": "HK",
         "country_flag": "🇭🇰",
-        "sms_pricing": 0.0809,
+        "sms_pricing_values": 0.0809,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -526,7 +526,7 @@
         "country": "Dominican Republic",
         "country_code": "DO",
         "country_flag": "🇩🇴",
-        "sms_pricing": 0.1126,
+        "sms_pricing_values": 0.1126,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -535,7 +535,7 @@
         "country": "Denmark",
         "country_code": "DK",
         "country_flag": "🇩🇰",
-        "sms_pricing": 0.0564,
+        "sms_pricing_values": 0.0574,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -544,7 +544,7 @@
         "country": "Switzerland",
         "country_code": "CH",
         "country_flag": "🇨🇭",
-        "sms_pricing": 0.0631,
+        "sms_pricing_values": 0.054,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -553,7 +553,7 @@
         "country": "Kyrgyzstan",
         "country_code": "KG",
         "country_flag": "🇰🇬",
-        "sms_pricing": 0.2737,
+        "sms_pricing_values": 0.1989,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -562,7 +562,7 @@
         "country": "Sri Lanka",
         "country_code": "LK",
         "country_flag": "🇱🇰",
-        "sms_pricing": 0.2065,
+        "sms_pricing_values": 0.255,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -571,7 +571,7 @@
         "country": "Czech Republic",
         "country_code": "CZ",
         "country_flag": "🇨🇿",
-        "sms_pricing": 0.057,
+        "sms_pricing_values": 0.0577,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -580,7 +580,7 @@
         "country": "Oman",
         "country_code": "OM",
         "country_flag": "🇴🇲",
-        "sms_pricing": 0.0934,
+        "sms_pricing_values": 0.0965,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -589,7 +589,7 @@
         "country": "Azerbaijan",
         "country_code": "AZ",
         "country_flag": "🇦🇿",
-        "sms_pricing": 0.365,
+        "sms_pricing_values": 0.2947,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -598,7 +598,7 @@
         "country": "Bolivia",
         "country_code": "BO",
         "country_flag": "🇧🇴",
-        "sms_pricing": 0.1562,
+        "sms_pricing_values": 0.1599,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -607,7 +607,7 @@
         "country": "Norway",
         "country_code": "NO",
         "country_flag": "🇳🇴",
-        "sms_pricing": 0.0779,
+        "sms_pricing_values": 0.0744,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -616,7 +616,7 @@
         "country": "Somalia",
         "country_code": "SO",
         "country_flag": "🇸🇴",
-        "sms_pricing": 0.1154,
+        "sms_pricing_values": 0.1807,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -625,7 +625,7 @@
         "country": "Cambodia",
         "country_code": "KH",
         "country_flag": "🇰🇭",
-        "sms_pricing": 0.1432,
+        "sms_pricing_values": 0.1359,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -634,7 +634,7 @@
         "country": "Cote d'Ivoire",
         "country_code": "CI",
         "country_flag": "🇨🇮",
-        "sms_pricing": 0.2204,
+        "sms_pricing_values": 0.1954,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -643,7 +643,7 @@
         "country": "Myanmar",
         "country_code": "MM",
         "country_flag": "🇲🇲",
-        "sms_pricing": 0.2055,
+        "sms_pricing_values": 0.24,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -652,7 +652,7 @@
         "country": "Sudan",
         "country_code": "SD",
         "country_flag": "🇸🇩",
-        "sms_pricing": 0.2402,
+        "sms_pricing_values": 0.2524,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -661,7 +661,7 @@
         "country": "Finland",
         "country_code": "FI",
         "country_flag": "🇫🇮",
-        "sms_pricing": 0.0831,
+        "sms_pricing_values": 0.0839,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -670,7 +670,7 @@
         "country": "Jordan",
         "country_code": "JO",
         "country_flag": "🇯🇴",
-        "sms_pricing": 0.1794,
+        "sms_pricing_values": 0.1842,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -679,7 +679,7 @@
         "country": "Uzbekistan",
         "country_code": "UZ",
         "country_flag": "🇺🇿",
-        "sms_pricing": 0.2514,
+        "sms_pricing_values": 0.2482,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -688,7 +688,7 @@
         "country": "Ghana",
         "country_code": "GH",
         "country_flag": "🇬🇭",
-        "sms_pricing": 0.1646,
+        "sms_pricing_values": 0.1646,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -697,7 +697,7 @@
         "country": "Greece",
         "country_code": "GR",
         "country_flag": "🇬🇷",
-        "sms_pricing": 0.0716,
+        "sms_pricing_values": 0.0718,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -706,7 +706,7 @@
         "country": "Qatar",
         "country_code": "QA",
         "country_flag": "🇶🇦",
-        "sms_pricing": 0.0403,
+        "sms_pricing_values": 0.0408,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -715,7 +715,7 @@
         "country": "Syria",
         "country_code": "SY",
         "country_flag": "🇸🇾",
-        "sms_pricing": 0.2305,
+        "sms_pricing_values": 0.221,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -724,7 +724,7 @@
         "country": "Mongolia",
         "country_code": "MN",
         "country_flag": "🇲🇳",
-        "sms_pricing": 0.197,
+        "sms_pricing_values": 0.1995,
         "voice_pricing": "Talk to sales",
         "phone_numbers_pricing": "Download pricing",
         "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -733,1366 +733,1366 @@
         "country": "Hungary",
         "country_code": "HU",
         "country_flag": "🇭🇺",
-        "sms_pricing": 0.0884,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Latvia",
-        "country_code": "LV",
-        "country_flag": "🇱🇻",
-        "sms_pricing": 0.068,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Guatemala",
-        "country_code": "GT",
-        "country_flag": "🇬🇹",
-        "sms_pricing": 0.1032,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Panama",
-        "country_code": "PA",
-        "country_flag": "🇵🇦",
-        "sms_pricing": 0.1337,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Serbia",
-        "country_code": "RS",
-        "country_flag": "🇷🇸",
-        "sms_pricing": 0.0818,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Cameroon",
-        "country_code": "CM",
-        "country_flag": "🇨🇲",
-        "sms_pricing": 0.139,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Democratic Republic of the Congo",
-        "country_code": "CD",
-        "country_flag": "🇨🇩",
-        "sms_pricing": 0.1769,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Bulgaria",
-        "country_code": "BG",
-        "country_flag": "🇧🇬",
-        "sms_pricing": 0.1264,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Senegal",
-        "country_code": "SN",
-        "country_flag": "🇸🇳",
-        "sms_pricing": 0.2057,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Yemen",
-        "country_code": "YE",
-        "country_flag": "🇾🇪",
-        "sms_pricing": 0.2345,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Mozambique",
-        "country_code": "MZ",
-        "country_flag": "🇲🇿",
-        "sms_pricing": 0.0567,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Benin",
-        "country_code": "BJ",
-        "country_flag": "🇧🇯",
-        "sms_pricing": 0.1325,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Libya",
-        "country_code": "LY",
-        "country_flag": "🇱🇾",
-        "sms_pricing": 0.2777,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Uruguay",
-        "country_code": "UY",
-        "country_flag": "🇺🇾",
-        "sms_pricing": 0.0979,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Lebanon",
-        "country_code": "LB",
-        "country_flag": "🇱🇧",
-        "sms_pricing": 0.1873,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Belarus",
-        "country_code": "BY",
-        "country_flag": "🇧🇾",
-        "sms_pricing": 0.2179,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Honduras",
-        "country_code": "HN",
-        "country_flag": "🇭🇳",
-        "sms_pricing": 0.087,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Uganda",
-        "country_code": "UG",
-        "country_flag": "🇺🇬",
-        "sms_pricing": 0.2062,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Ethiopia",
-        "country_code": "ET",
-        "country_flag": "🇪🇹",
-        "sms_pricing": 0.2117,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "El Salvador",
-        "country_code": "SV",
-        "country_flag": "🇸🇻",
-        "sms_pricing": 0.0439,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Bahrain",
-        "country_code": "BH",
-        "country_flag": "🇧🇭",
-        "sms_pricing": 0.0334,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Slovakia",
-        "country_code": "SK",
-        "country_flag": "🇸🇰",
-        "sms_pricing": 0.0709,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Cuba",
-        "country_code": "CU",
-        "country_flag": "🇨🇺",
-        "sms_pricing": 0.0991,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Luxembourg",
-        "country_code": "LU",
-        "country_flag": "🇱🇺",
-        "sms_pricing": 0.0655,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Georgia",
-        "country_code": "GE",
-        "country_flag": "🇬🇪",
-        "sms_pricing": 0.155,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Afghanistan",
-        "country_code": "AF",
-        "country_flag": "🇦🇫",
-        "sms_pricing": 0.2094,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Croatia",
-        "country_code": "HR",
-        "country_flag": "🇭🇷",
-        "sms_pricing": 0.0831,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "East Timor",
-        "country_code": "TL",
-        "country_flag": "🇹🇱",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Lithuania",
-        "country_code": "LT",
-        "country_flag": "🇱🇹",
-        "sms_pricing": 0.0744,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Jamaica",
-        "country_code": "JM",
-        "country_flag": "🇯🇲",
-        "sms_pricing": 0.1434,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Tanzania",
-        "country_code": "TZ",
-        "country_flag": "🇹🇿",
-        "sms_pricing": 0.1205,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Tunisia",
-        "country_code": "TN",
-        "country_flag": "🇹🇳",
-        "sms_pricing": 0.1817,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Nicaragua",
-        "country_code": "NI",
-        "country_flag": "🇳🇮",
-        "sms_pricing": 0.1133,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Zimbabwe",
-        "country_code": "ZW",
-        "country_flag": "🇿🇼",
-        "sms_pricing": 0.1913,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Reunion",
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Zambia",
-        "country_code": "ZM",
-        "country_flag": "🇿🇲",
-        "sms_pricing": 0.257,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Estonia",
-        "country_code": "EE",
-        "country_flag": "🇪🇪",
-        "sms_pricing": 0.0985,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Madagascar",
-        "country_code": "MG",
-        "country_flag": "🇲🇬",
-        "sms_pricing": 0.3176,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Trinidad and Tobago",
-        "country_code": "TT",
-        "country_flag": "🇹🇹",
-        "sms_pricing": 0.1074,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Angola",
-        "country_code": "AO",
-        "country_flag": "🇦🇴",
-        "sms_pricing": 0.0917,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Albania",
-        "country_code": "AL",
-        "country_flag": "🇦🇱",
-        "sms_pricing": 0.0981,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Paraguay",
-        "country_code": "PY",
-        "country_flag": "🇵🇾",
-        "sms_pricing": 0.0662,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Lao",
-        "country_code": "LA",
-        "country_flag": "🇱🇦",
-        "sms_pricing": 0.0435,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Armenia",
-        "country_code": "AM",
-        "country_flag": "🇦🇲",
-        "sms_pricing": 0.1102,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Eritrea",
-        "country_code": "ER",
-        "country_flag": "🇪🇷",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Moldova",
-        "country_code": "MD",
-        "country_flag": "🇲🇩",
-        "sms_pricing": 0.058,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Haiti",
-        "country_code": "HT",
-        "country_flag": "🇭🇹",
-        "sms_pricing": 0.1584,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Slovenia",
-        "country_code": "SI",
-        "country_flag": "🇸🇮",
-        "sms_pricing": 0.1264,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Mali",
-        "country_code": "ML",
-        "country_flag": "🇲🇱",
-        "sms_pricing": 0.1805,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Burkina Faso",
-        "country_code": "BF",
-        "country_flag": "🇧🇫",
-        "sms_pricing": 0.2139,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Mauritius",
-        "country_code": "MU",
-        "country_flag": "🇲🇺",
-        "sms_pricing": 0.125,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Malta",
-        "country_code": "MT",
-        "country_flag": "🇲🇹",
-        "sms_pricing": 0.0824,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Bosnia and Herzegovina",
-        "country_code": "BA",
-        "country_flag": "🇧🇦",
-        "sms_pricing": 0.08,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Guadeloupe",
-        "country_code": "GP",
-        "country_flag": "🇬🇵",
-        "sms_pricing": 0.1114,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Tajikistan",
-        "country_code": "TJ",
-        "country_flag": "🇹🇯",
-        "sms_pricing": 0.2105,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Kosovo",
-        "country_code": "XK",
-        "country_flag": "🇽🇰",
-        "sms_pricing": 0.1863,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Bahamas",
-        "country_code": "BS",
-        "country_flag": "🇧🇸",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Botswana",
-        "country_code": "BW",
-        "country_flag": "🇧🇼",
-        "sms_pricing": 0.0636,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Turkmenistan",
-        "country_code": "TM",
-        "country_flag": "🇹🇲",
-        "sms_pricing": 0.166,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Cyprus",
-        "country_code": "CY",
-        "country_flag": "🇨🇾",
-        "sms_pricing": 0.0456,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Togo",
-        "country_code": "TG",
-        "country_flag": "🇹🇬",
-        "sms_pricing": 0.2584,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Macedonia",
-        "country_code": "MK",
-        "country_flag": "🇲🇰",
-        "sms_pricing": 0.0483,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Macao",
-        "country_code": "MO",
-        "country_flag": "🇲🇴",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "French Guiana",
-        "country_code": "GF",
-        "country_flag": "🇬🇫",
-        "sms_pricing": 0.117,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Namibia",
-        "country_code": "NA",
-        "country_flag": "🇳🇦",
-        "sms_pricing": 0.0441,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Gabon",
-        "country_code": "GA",
-        "country_flag": "🇬🇦",
-        "sms_pricing": 0.2102,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Palestine",
-        "country_code": "PS",
-        "country_flag": "🇵🇸",
-        "sms_pricing": 0.272,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Mauritania",
-        "country_code": "MR",
-        "country_flag": "🇲🇷",
-        "sms_pricing": 0.1775,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Guyana",
-        "country_code": "GY",
-        "country_flag": "🇬🇾",
-        "sms_pricing": 0.1471,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Rwanda",
-        "country_code": "RW",
-        "country_flag": "🇷🇼",
-        "sms_pricing": 0.0974,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Niger",
-        "country_code": "NE",
-        "country_flag": "🇳🇪",
-        "sms_pricing": 0.2059,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Maldives",
-        "country_code": "MV",
-        "country_flag": "🇲🇻",
-        "sms_pricing": 0.1269,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Guinea",
-        "country_code": "GN",
-        "country_flag": "🇬🇳",
-        "sms_pricing": 0.1361,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Martinique",
-        "country_code": "MQ",
-        "country_flag": "🇲🇶",
-        "sms_pricing": 0.1377,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Monaco",
-        "country_code": "MC",
-        "country_flag": "🇲🇨",
-        "sms_pricing": 0.1545,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Sierra Leone",
-        "country_code": "SL",
-        "country_flag": "🇸🇱",
-        "sms_pricing": 0.0858,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Barbados",
-        "country_code": "BB",
-        "country_flag": "🇧🇧",
-        "sms_pricing": 0.1259,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Guam",
-        "country_code": "GU",
-        "country_flag": "🇬🇺",
-        "sms_pricing": 0.2239,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "New Caledonia",
-        "country_code": "NC",
-        "country_flag": "🇳🇨",
-        "sms_pricing": 0.127,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Malawi",
-        "country_code": "MW",
-        "country_flag": "🇲🇼",
-        "sms_pricing": 0.1809,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Congo",
-        "country_code": "CD",
-        "country_flag": "🇨🇩",
-        "sms_pricing": 0.1769,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Iceland",
-        "country_code": "IS",
-        "country_flag": "🇮🇸",
-        "sms_pricing": 0.1028,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Papua New Guinea",
-        "country_code": "PG",
-        "country_flag": "🇵🇬",
-        "sms_pricing": 0.1484,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "U.S. Virgin Islands",
-        "country_code": "VI",
-        "country_flag": "🇻🇮",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Chad",
-        "country_code": "TD",
-        "country_flag": "🇹🇩",
-        "sms_pricing": 0.2335,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Lesotho",
-        "country_code": "LS",
-        "country_flag": "🇱🇸",
-        "sms_pricing": 0.2217,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Gambia",
-        "country_code": "GM",
-        "country_flag": "🇬🇲",
-        "sms_pricing": 0.1039,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Montenegro",
-        "country_code": "ME",
-        "country_flag": "🇲🇪",
-        "sms_pricing": 0.1063,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Liberia",
-        "country_code": "LR",
-        "country_flag": "🇱🇷",
-        "sms_pricing": 0.1247,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Brunei Darussalam",
-        "country_code": "BN",
-        "country_flag": "🇧🇳",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Mayotte",
-        "country_code": "YT",
-        "country_flag": "🇾🇹",
-        "sms_pricing": 0.1939,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Suriname",
-        "country_code": "SR",
-        "country_flag": "🇸🇷",
-        "sms_pricing": 0.0902,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Burundi",
-        "country_code": "BI",
-        "country_flag": "🇧🇮",
-        "sms_pricing": 0.22,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Bhutan",
-        "country_code": "BT",
-        "country_flag": "🇧🇹",
-        "sms_pricing": 0.2784,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Cape Verde",
-        "country_code": "CV",
-        "country_flag": "🇨🇻",
-        "sms_pricing": 0.1101,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Djibouti",
-        "country_code": "DJ",
-        "country_flag": "🇩🇯",
-        "sms_pricing": 0.1117,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "South Sudan",
-        "country_code": "SS",
-        "country_flag": "🇸🇸",
-        "sms_pricing": 0.1238,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Saint Lucia",
-        "country_code": "LC",
-        "country_flag": "🇱🇨",
-        "sms_pricing": 0.1447,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "French Polynesia",
-        "country_code": "PF",
-        "country_flag": "🇵🇫",
-        "sms_pricing": 0.1395,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Fiji",
-        "country_code": "FJ",
-        "country_flag": "🇫🇯",
-        "sms_pricing": 0.1144,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Belize",
-        "country_code": "BZ",
-        "country_flag": "🇧🇿",
-        "sms_pricing": 0.148,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Cayman Islands",
-        "country_code": "KY",
-        "country_flag": "🇰🇾",
-        "sms_pricing": 0.1287,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Equatorial Guinea",
-        "country_code": "GQ",
-        "country_flag": "🇬🇶",
-        "sms_pricing": 0.1011,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Central African Republic",
-        "country_code": "CF",
-        "country_flag": "🇨🇫",
-        "sms_pricing": 0.0695,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Bermuda",
-        "country_code": "BM",
-        "country_flag": "🇧🇲",
-        "sms_pricing": 0.1894,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Aruba",
-        "country_code": "AW",
-        "country_flag": "🇦🇼",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Saint Vincent and the Grenadines",
-        "country_code": "VC",
-        "country_flag": "🇻🇨",
-        "sms_pricing": 0.128,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Samoa",
-        "country_code": "WS",
-        "country_flag": "🇼🇸",
-        "sms_pricing": 0.1162,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Saint Kitts and Nevis",
-        "country_code": "KN",
-        "country_flag": "🇰🇳",
-        "sms_pricing": 0.1159,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Greenland",
-        "country_code": "GL",
-        "country_flag": "🇬🇱",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Dominica",
-        "country_code": "DM",
-        "country_flag": "🇩🇲",
-        "sms_pricing": 0.1115,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Antigua and Barbuda",
-        "country_code": "AG",
-        "country_flag": "🇦🇬",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Comoros",
-        "country_code": "KM",
-        "country_flag": "🇰🇲",
-        "sms_pricing": 0.1824,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Curacao",
-        "country_code": "CW",
-        "country_flag": "🇨🇼",
-        "sms_pricing": 0.1287,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Guinea-Bissau",
-        "country_code": "GW",
-        "country_flag": "🇬🇼",
-        "sms_pricing": 0.1024,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Swaziland",
-        "country_code": "SZ",
-        "country_flag": "🇸🇿",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Andorra",
-        "country_code": "AD",
-        "country_flag": "🇦🇩",
-        "sms_pricing": 0.139,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Solomon Islands",
-        "country_code": "SB",
-        "country_flag": "🇸🇧",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Seychelles",
-        "country_code": "SC",
-        "country_flag": "🇸🇨",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Turks and Caicos Islands",
-        "country_code": "TC",
-        "country_flag": "🇹🇨",
-        "sms_pricing": 0.1299,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Grenada",
-        "country_code": "GD",
-        "country_flag": "🇬🇩",
-        "sms_pricing": 0.1284,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Montserrat",
-        "country_code": "MS",
-        "country_flag": "🇲🇸",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Gibraltar",
-        "country_code": "GI",
-        "country_flag": "🇬🇮",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Sint Maarten",
-        "country_code": "SX",
-        "country_flag": "🇸🇽",
-        "sms_pricing": 0.13,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "American Samoa",
-        "country_code": "AS",
-        "country_flag": "🇦🇸",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Northern Mariana Islands",
-        "country_code": "MP",
-        "country_flag": "🇲🇵",
-        "sms_pricing": 0.13,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "British Virgin Islands",
-        "country_code": "VG",
-        "country_flag": "🇻🇬",
-        "sms_pricing": 0.1154,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Faroe Islands",
-        "country_code": "FO",
-        "country_flag": "🇫🇴",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Tonga",
-        "country_code": "TO",
-        "country_flag": "🇹🇴",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Liechtenstein",
-        "country_code": "LI",
-        "country_flag": "🇱🇮",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Vanuatu",
-        "country_code": "VU",
-        "country_flag": "🇻🇺",
-        "sms_pricing": 0.1051,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Anguilla",
-        "country_code": "AI",
-        "country_flag": "🇦🇮",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Bonaire, Sabo & St. Eustacius",
-        "country_code": "BQ",
-        "country_flag": "🇧🇶",
-        "sms_pricing": 0.13,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Falkland Islands",
-        "country_code": "FK",
-        "country_flag": "🇫🇰",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Palau",
-        "country_code": "PW",
-        "country_flag": "🇵🇼",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Saint Pierre and Miquelon",
-        "country_code": "PM",
-        "country_flag": "🇵🇲",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Kiribati",
-        "country_code": "KI",
-        "country_flag": "🇰🇮",
-        "sms_pricing": 0.1667,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Cook Islands",
-        "country_code": "CK",
-        "country_flag": "🇨🇰",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+        "sms_pricing_values": 0.0897,
+        "voice_pricing": "Talk to sales",
+        "phone_numbers_pricing": "Download pricing",
+        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
       },
       {
-        "country": "Norfolk Island",
-        "country_code": "NF",
-        "country_flag": "🇳🇫",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Tuvalu",
-        "country_code": "TV",
-        "country_flag": "🇹🇻",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Sao Tome and Principe",
-        "country_code": "ST",
-        "country_flag": "🇸🇹",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Micronesia",
-        "country_code": "FM",
-        "country_flag": "🇫🇲",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Marshall Islands",
-        "country_code": "MH",
-        "country_flag": "🇲🇭",
-        "sms_pricing": 0.1399,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Wallis and Futuna",
-        "country_code": "WF",
-        "country_flag": "🇼🇫",
-        "sms_pricing": 0.1156,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Saint Helena",
-        "country_code": "SH",
-        "country_flag": "🇸🇭",
-        "sms_pricing": 0.13,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Tokelau",
-        "country_code": "TK",
-        "country_flag": "🇹🇰",
-        "sms_pricing": 0.13,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Diego Garcia",
-        "country_code": "DG",
-        "country_flag": "🇩🇬",
-        "sms_pricing": 0.13,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "Nauru",
-        "country_code": "NR",
-        "country_flag": "🇳🇷",
-        "sms_pricing": 0.166,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
-      {
-        "country": "San Marino",
-        "country_code": "SM",
-        "country_flag": "🇸🇲",
-        "sms_pricing": 0.135,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
+          "country": "Latvia",
+          "country_code": "LV",
+          "country_flag": "🇱🇻",
+          "sms_pricing_values": 0.069,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
       {
-        "country": "Ascension",
-        "country_code": "AC",
-        "country_flag": "🇦🇨",
-        "sms_pricing": 0.13,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
+          "country": "Guatemala",
+          "country_code": "GT",
+          "country_flag": "🇬🇹",
+          "sms_pricing_values": 0.1059,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
       {
-        "country": "Niue",
-        "country_code": "NU",
-        "country_flag": "🇳🇺",
-        "sms_pricing": 0.2129,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
-      },
+          "country": "Panama",
+          "country_code": "PA",
+          "country_flag": "🇵🇦",
+          "sms_pricing_values": 0.1337,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
       {
-        "country": "Vatican City State",
-        "country_code": "VA",
-        "country_flag": "🇻🇦",
-        "sms_pricing": 0.13,
-        "voice_pricing": "Talk to sales",
-        "phone_numbers_pricing": "Download pricing",
-        "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+          "country": "Serbia",
+          "country_code": "RS",
+          "country_flag": "🇷🇸",
+          "sms_pricing_values": 0.064,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Cameroon",
+          "country_code": "CM",
+          "country_flag": "🇨🇲",
+          "sms_pricing_values": 0.1395,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Democratic Republic of the Congo",
+          "country_code": "CD",
+          "country_flag": "🇨🇩",
+          "sms_pricing_values": 0.1302,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Bulgaria",
+          "country_code": "BG",
+          "country_flag": "🇧🇬",
+          "sms_pricing_values": 0.1267,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Senegal",
+          "country_code": "SN",
+          "country_flag": "🇸🇳",
+          "sms_pricing_values": 0.2188,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Yemen",
+          "country_code": "YE",
+          "country_flag": "🇾🇪",
+          "sms_pricing_values": 0.238,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Mozambique",
+          "country_code": "MZ",
+          "country_flag": "🇲🇿",
+          "sms_pricing_values": 0.0572,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Benin",
+          "country_code": "BJ",
+          "country_flag": "🇧🇯",
+          "sms_pricing_values": 0.1527,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Libya",
+          "country_code": "LY",
+          "country_flag": "🇱🇾",
+          "sms_pricing_values": 0.275,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Uruguay",
+          "country_code": "UY",
+          "country_flag": "🇺🇾",
+          "sms_pricing_values": 0.0854,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Lebanon",
+          "country_code": "LB",
+          "country_flag": "🇱🇧",
+          "sms_pricing_values": 0.1559,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Belarus",
+          "country_code": "BY",
+          "country_flag": "🇧🇾",
+          "sms_pricing_values": 0.214,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Honduras",
+          "country_code": "HN",
+          "country_flag": "🇭🇳",
+          "sms_pricing_values": 0.0757,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Uganda",
+          "country_code": "UG",
+          "country_flag": "🇺🇬",
+          "sms_pricing_values": 0.1975,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Ethiopia",
+          "country_code": "ET",
+          "country_flag": "🇪🇹",
+          "sms_pricing_values": 0.2142,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "El Salvador",
+          "country_code": "SV",
+          "country_flag": "🇸🇻",
+          "sms_pricing_values": 0.048,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Bahrain",
+          "country_code": "BH",
+          "country_flag": "🇧🇭",
+          "sms_pricing_values": 0.0342,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Slovakia",
+          "country_code": "SK",
+          "country_flag": "🇸🇰",
+          "sms_pricing_values": 0.0717,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Cuba",
+          "country_code": "CU",
+          "country_flag": "🇨🇺",
+          "sms_pricing_values": 0.0991,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Luxembourg",
+          "country_code": "LU",
+          "country_flag": "🇱🇺",
+          "sms_pricing_values": 0.068,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Georgia",
+          "country_code": "GE",
+          "country_flag": "🇬🇪",
+          "sms_pricing_values": 0.1377,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Afghanistan",
+          "country_code": "AF",
+          "country_flag": "🇦🇫",
+          "sms_pricing_values": 0.2465,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Croatia",
+          "country_code": "HR",
+          "country_flag": "🇭🇷",
+          "sms_pricing_values": 0.0757,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "East Timor",
+          "country_code": "TL",
+          "country_flag": "🇹🇱",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Lithuania",
+          "country_code": "LT",
+          "country_flag": "🇱🇹",
+          "sms_pricing_values": 0.0725,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Jamaica",
+          "country_code": "JM",
+          "country_flag": "🇯🇲",
+          "sms_pricing_values": 0.1585,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Tanzania",
+          "country_code": "TZ",
+          "country_flag": "🇹🇿",
+          "sms_pricing_values": 0.1219,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Tunisia",
+          "country_code": "TN",
+          "country_flag": "🇹🇳",
+          "sms_pricing_values": 0.1974,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Nicaragua",
+          "country_code": "NI",
+          "country_flag": "🇳🇮",
+          "sms_pricing_values": 0.1115,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Zimbabwe",
+          "country_code": "ZW",
+          "country_flag": "🇿🇼",
+          "sms_pricing_values": 0.1434,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Reunion",
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Zambia",
+          "country_code": "ZM",
+          "country_flag": "🇿🇲",
+          "sms_pricing_values": 0.2711,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Estonia",
+          "country_code": "EE",
+          "country_flag": "🇪🇪",
+          "sms_pricing_values": 0.1178,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Madagascar",
+          "country_code": "MG",
+          "country_flag": "🇲🇬",
+          "sms_pricing_values": 0.4599,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Trinidad and Tobago",
+          "country_code": "TT",
+          "country_flag": "🇹🇹",
+          "sms_pricing_values": 0.1155,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Angola",
+          "country_code": "AO",
+          "country_flag": "🇦🇴",
+          "sms_pricing_values": 0.1006,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Albania",
+          "country_code": "AL",
+          "country_flag": "🇦🇱",
+          "sms_pricing_values": 0.0984,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Paraguay",
+          "country_code": "PY",
+          "country_flag": "🇵🇾",
+          "sms_pricing_values": 0.0733,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Lao",
+          "country_code": "LA",
+          "country_flag": "🇱🇦",
+          "sms_pricing_values": 0.0446,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Armenia",
+          "country_code": "AM",
+          "country_flag": "🇦🇲",
+          "sms_pricing_values": 0.1245,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Eritrea",
+          "country_code": "ER",
+          "country_flag": "🇪🇷",
+          "sms_pricing_values": 0.1007,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Moldova",
+          "country_code": "MD",
+          "country_flag": "🇲🇩",
+          "sms_pricing_values": 0.058,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Haiti",
+          "country_code": "HT",
+          "country_flag": "🇭🇹",
+          "sms_pricing_values": 0.1934,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Slovenia",
+          "country_code": "SI",
+          "country_flag": "🇸🇮",
+          "sms_pricing_values": 0.1287,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Mali",
+          "country_code": "ML",
+          "country_flag": "🇲🇱",
+          "sms_pricing_values": 0.1349,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Burkina Faso",
+          "country_code": "BF",
+          "country_flag": "🇧🇫",
+          "sms_pricing_values": 0.2203,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Mauritius",
+          "country_code": "MU",
+          "country_flag": "🇲🇺",
+          "sms_pricing_values": 0.128,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Malta",
+          "country_code": "MT",
+          "country_flag": "🇲🇹",
+          "sms_pricing_values": 0.0824,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Bosnia and Herzegovina",
+          "country_code": "BA",
+          "country_flag": "🇧🇦",
+          "sms_pricing_values": 0.0817,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Guadeloupe",
+          "country_code": "GP",
+          "country_flag": "🇬🇵",
+          "sms_pricing_values": 0.1144,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Tajikistan",
+          "country_code": "TJ",
+          "country_flag": "🇹🇯",
+          "sms_pricing_values": 0.2947,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Kosovo",
+          "country_code": "XK",
+          "country_flag": "🇽🇰",
+          "sms_pricing_values": 0.2031,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Bahamas",
+          "country_code": "BS",
+          "country_flag": "🇧🇸",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Botswana",
+          "country_code": "BW",
+          "country_flag": "🇧🇼",
+          "sms_pricing_values": 0.0641,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Turkmenistan",
+          "country_code": "TM",
+          "country_flag": "🇹🇲",
+          "sms_pricing_values": 0.168,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Cyprus",
+          "country_code": "CY",
+          "country_flag": "🇨🇾",
+          "sms_pricing_values": 0.0456,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Togo",
+          "country_code": "TG",
+          "country_flag": "🇹🇬",
+          "sms_pricing_values": 0.0648,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Macedonia",
+          "country_code": "MK",
+          "country_flag": "🇲🇰",
+          "sms_pricing_values": 0.0487,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Macao",
+          "country_code": "MO",
+          "country_flag": "🇲🇴",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "French Guiana",
+          "country_code": "GF",
+          "country_flag": "🇬🇫",
+          "sms_pricing_values": 0.1215,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Namibia",
+          "country_code": "NA",
+          "country_flag": "🇳🇦",
+          "sms_pricing_values": 0.0509,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Gabon",
+          "country_code": "GA",
+          "country_flag": "🇬🇦",
+          "sms_pricing_values": 0.2105,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Palestine",
+          "country_code": "PS",
+          "country_flag": "🇵🇸",
+          "sms_pricing_values": 0.296,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Mauritania",
+          "country_code": "MR",
+          "country_flag": "🇲🇷",
+          "sms_pricing_values": 0.1725,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Guyana",
+          "country_code": "GY",
+          "country_flag": "🇬🇾",
+          "sms_pricing_values": 0.1884,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Rwanda",
+          "country_code": "RW",
+          "country_flag": "🇷🇼",
+          "sms_pricing_values": 0.1482,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Niger",
+          "country_code": "NE",
+          "country_flag": "🇳🇪",
+          "sms_pricing_values": 0.2062,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Maldives",
+          "country_code": "MV",
+          "country_flag": "🇲🇻",
+          "sms_pricing_values": 0.1254,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Guinea",
+          "country_code": "GN",
+          "country_flag": "🇬🇳",
+          "sms_pricing_values": 0.1431,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Martinique",
+          "country_code": "MQ",
+          "country_flag": "🇲🇶",
+          "sms_pricing_values": 0.115,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Monaco",
+          "country_code": "MC",
+          "country_flag": "🇲🇨",
+          "sms_pricing_values": 0.1649,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Sierra Leone",
+          "country_code": "SL",
+          "country_flag": "🇸🇱",
+          "sms_pricing_values": 0.0858,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Barbados",
+          "country_code": "BB",
+          "country_flag": "🇧🇧",
+          "sms_pricing_values": 0.1322,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Guam",
+          "country_code": "GU",
+          "country_flag": "🇬🇺",
+          "sms_pricing_values": 0.224,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "New Caledonia",
+          "country_code": "NC",
+          "country_flag": "🇳🇨",
+          "sms_pricing_values": 0.1285,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Malawi",
+          "country_code": "MW",
+          "country_flag": "🇲🇼",
+          "sms_pricing_values": 0.1894,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Congo",
+          "country_code": "CD",
+          "country_flag": "🇨🇩",
+          "sms_pricing_values": 0.1302,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Iceland",
+          "country_code": "IS",
+          "country_flag": "🇮🇸",
+          "sms_pricing_values": 0.1028,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Papua New Guinea",
+          "country_code": "PG",
+          "country_flag": "🇵🇬",
+          "sms_pricing_values": 0.134,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "U.S. Virgin Islands",
+          "country_code": "VI",
+          "country_flag": "🇻🇮",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Chad",
+          "country_code": "TD",
+          "country_flag": "🇹🇩",
+          "sms_pricing_values": 0.24,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Lesotho",
+          "country_code": "LS",
+          "country_flag": "🇱🇸",
+          "sms_pricing_values": 0.2308,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Gambia",
+          "country_code": "GM",
+          "country_flag": "🇬🇲",
+          "sms_pricing_values": 0.138,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Montenegro",
+          "country_code": "ME",
+          "country_flag": "🇲🇪",
+          "sms_pricing_values": 0.1063,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Liberia",
+          "country_code": "LR",
+          "country_flag": "🇱🇷",
+          "sms_pricing_values": 0.1242,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Brunei Darussalam",
+          "country_code": "BN",
+          "country_flag": "🇧🇳",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Mayotte",
+          "country_code": "YT",
+          "country_flag": "🇾🇹",
+          "sms_pricing_values": 0.2046,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Suriname",
+          "country_code": "SR",
+          "country_flag": "🇸🇷",
+          "sms_pricing_values": 0.0862,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Burundi",
+          "country_code": "BI",
+          "country_flag": "🇧🇮",
+          "sms_pricing_values": 0.1489,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Bhutan",
+          "country_code": "BT",
+          "country_flag": "🇧🇹",
+          "sms_pricing_values": 0.2339,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Cape Verde",
+          "country_code": "CV",
+          "country_flag": "🇨🇻",
+          "sms_pricing_values": 0.1113,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Djibouti",
+          "country_code": "DJ",
+          "country_flag": "🇩🇯",
+          "sms_pricing_values": 0.1119,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "South Sudan",
+          "country_code": "SS",
+          "country_flag": "🇸🇸",
+          "sms_pricing_values": 0.1895,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Saint Lucia",
+          "country_code": "LC",
+          "country_flag": "🇱🇨",
+          "sms_pricing_values": 0.1519,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "French Polynesia",
+          "country_code": "PF",
+          "country_flag": "🇵🇫",
+          "sms_pricing_values": 0.1492,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Fiji",
+          "country_code": "FJ",
+          "country_flag": "🇫🇯",
+          "sms_pricing_values": 0.1109,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Belize",
+          "country_code": "BZ",
+          "country_flag": "🇧🇿",
+          "sms_pricing_values": 0.2077,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Cayman Islands",
+          "country_code": "KY",
+          "country_flag": "🇰🇾",
+          "sms_pricing_values": 0.1367,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Equatorial Guinea",
+          "country_code": "GQ",
+          "country_flag": "🇬🇶",
+          "sms_pricing_values": 0.1025,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Central African Republic",
+          "country_code": "CF",
+          "country_flag": "🇨🇫",
+          "sms_pricing_values": 0.1244,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Bermuda",
+          "country_code": "BM",
+          "country_flag": "🇧🇲",
+          "sms_pricing_values": 0.203,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Aruba",
+          "country_code": "AW",
+          "country_flag": "🇦🇼",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Saint Vincent and the Grenadines",
+          "country_code": "VC",
+          "country_flag": "🇻🇨",
+          "sms_pricing_values": 0.1295,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Samoa",
+          "country_code": "WS",
+          "country_flag": "🇼🇸",
+          "sms_pricing_values": 0.1177,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Saint Kitts and Nevis",
+          "country_code": "KN",
+          "country_flag": "🇰🇳",
+          "sms_pricing_values": 0.1539,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Greenland",
+          "country_code": "GL",
+          "country_flag": "🇬🇱",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Dominica",
+          "country_code": "DM",
+          "country_flag": "🇩🇲",
+          "sms_pricing_values": 0.1144,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Antigua and Barbuda",
+          "country_code": "AG",
+          "country_flag": "🇦🇬",
+          "sms_pricing_values": 0.1092,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Comoros",
+          "country_code": "KM",
+          "country_flag": "🇰🇲",
+          "sms_pricing_values": 0.1834,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Curacao",
+          "country_code": "CW",
+          "country_flag": "🇨🇼",
+          "sms_pricing_values": 0.1486,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Guinea-Bissau",
+          "country_code": "GW",
+          "country_flag": "🇬🇼",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Swaziland",
+          "country_code": "SZ",
+          "country_flag": "🇸🇿",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Andorra",
+          "country_code": "AD",
+          "country_flag": "🇦🇩",
+          "sms_pricing_values": 0.1063,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Solomon Islands",
+          "country_code": "SB",
+          "country_flag": "🇸🇧",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Seychelles",
+          "country_code": "SC",
+          "country_flag": "🇸🇨",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Turks and Caicos Islands",
+          "country_code": "TC",
+          "country_flag": "🇹🇨",
+          "sms_pricing_values": 0.1402,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Grenada",
+          "country_code": "GD",
+          "country_flag": "🇬🇩",
+          "sms_pricing_values": 0.136,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Montserrat",
+          "country_code": "MS",
+          "country_flag": "🇲🇸",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Gibraltar",
+          "country_code": "GI",
+          "country_flag": "🇬🇮",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Sint Maarten",
+          "country_code": "SX",
+          "country_flag": "🇸🇽",
+          "sms_pricing_values": 0.13,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "American Samoa",
+          "country_code": "AS",
+          "country_flag": "🇦🇸",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Northern Mariana Islands",
+          "country_code": "MP",
+          "country_flag": "🇲🇵",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "British Virgin Islands",
+          "country_code": "VG",
+          "country_flag": "🇻🇬",
+          "sms_pricing_values": 0.1134,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Faroe Islands",
+          "country_code": "FO",
+          "country_flag": "🇫🇴",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Tonga",
+          "country_code": "TO",
+          "country_flag": "🇹🇴",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Liechtenstein",
+          "country_code": "LI",
+          "country_flag": "🇱🇮",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Vanuatu",
+          "country_code": "VU",
+          "country_flag": "🇻🇺",
+          "sms_pricing_values": 0.1244,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Anguilla",
+          "country_code": "AI",
+          "country_flag": "🇦🇮",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Bonaire, Sabo & St. Eustacius",
+          "country_code": "BQ",
+          "country_flag": "🇧🇶",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Falkland Islands",
+          "country_code": "FK",
+          "country_flag": "🇫🇰",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Palau",
+          "country_code": "PW",
+          "country_flag": "🇵🇼",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Saint Pierre and Miquelon",
+          "country_code": "PM",
+          "country_flag": "🇵🇲",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Kiribati",
+          "country_code": "KI",
+          "country_flag": "🇰🇮",
+          "sms_pricing_values": 0.1667,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Cook Islands",
+          "country_code": "CK",
+          "country_flag": "🇨🇰",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Norfolk Island",
+          "country_code": "NF",
+          "country_flag": "🇳🇫",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Tuvalu",
+          "country_code": "TV",
+          "country_flag": "🇹🇻",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Sao Tome and Principe",
+          "country_code": "ST",
+          "country_flag": "🇸🇹",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Micronesia",
+          "country_code": "FM",
+          "country_flag": "🇫🇲",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Marshall Islands",
+          "country_code": "MH",
+          "country_flag": "🇲🇭",
+          "sms_pricing_values": 0.1457,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Wallis and Futuna",
+          "country_code": "WF",
+          "country_flag": "🇼🇫",
+          "sms_pricing_values": 0.1037,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Saint Helena",
+          "country_code": "SH",
+          "country_flag": "🇸🇭",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Tokelau",
+          "country_code": "TK",
+          "country_flag": "🇹🇰",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Diego Garcia",
+          "country_code": "DG",
+          "country_flag": "🇩🇬",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Nauru",
+          "country_code": "NR",
+          "country_flag": "🇳🇷",
+          "sms_pricing_values": 0.1682,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "San Marino",
+          "country_code": "SM",
+          "country_flag": "🇸🇲",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Ascension",
+          "country_code": "AC",
+          "country_flag": "🇦🇨",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Niue",
+          "country_code": "NU",
+          "country_flag": "🇳🇺",
+          "sms_pricing_values": 0.2175,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
+      },
+      {
+          "country": "Vatican City State",
+          "country_code": "VA",
+          "country_flag": "🇻🇦",
+          "sms_pricing_values": 0.135,
+          "voice_pricing": "Talk to sales",
+          "phone_numbers_pricing": "Download pricing",
+          "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
       }
     ],
     "Verification": [
