@@ -7750,7 +7750,7 @@
       "toll_free_number_label": "Toll free number (TFN)",
       "toll_free_number_description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
       "toll_free_number_setup_price": 1.50,
-      "toll_free_number_recurring_price": 1.50",
+      "toll_free_number_recurring_price": 1.50,
       "link_1_label": "Start with a trial",
       "link_1_destination": "https://portal.telesign.com/signup",
       "link_2_label": "Request TFN in your account",
