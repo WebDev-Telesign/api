@@ -7705,10 +7705,10 @@
       "toll_free_number_description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
       "toll_free_number_setup_pricing": 1.5,
       "toll_free_number_recurring_pricing": 1.5,
-      "link_1_label": "Start with a trial",
-      "link_1_destination": "https://portal.telesign.com/signup",
-      "link_2_label": "Request TFN in your account",
-      "link_2_destination": "https://my.telesign.com/sender-id-purchase/step1"
+      "link_1_cta": "Start with a trial",
+      "link_1_url": "https://portal.telesign.com/signup",
+      "link_2_cta": "Request TFN in your account",
+      "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
     },
     {
       "country": "Canada",
@@ -7728,10 +7728,10 @@
       "toll_free_number_description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
       "toll_free_number_setup_pricing": 1.5,
       "toll_free_number_recurring_pricing": 1.5,
-      "link_1_label": "Start with a trial",
-      "link_1_destination": "https://portal.telesign.com/signup",
-      "link_2_label": "Request TFN in your account",
-      "link_2_destination": "https://my.telesign.com/sender-id-purchase/step1"
+      "link_1_cta": "Start with a trial",
+      "link_1_url": "https://portal.telesign.com/signup",
+      "link_2_cta": "Request TFN in your account",
+      "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
     },
     {
       "country": "United Kingdom",
@@ -7751,10 +7751,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Start with a trial",
-      "link_1_destination": "https://portal.telesign.com/signup",
-      "link_2_label": "Request DLC in your account",
-      "link_2_destination": "https://my.telesign.com/sender-id-purchase/step1"
+      "link_1_cta": "Start with a trial",
+      "link_1_url": "https://portal.telesign.com/signup",
+      "link_2_cta": "Request DLC in your account",
+      "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
     },
     {
       "country": "Germany",
@@ -7774,10 +7774,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Start with a trial",
-      "link_1_destination": "https://portal.telesign.com/signup",
-      "link_2_label": "Talk to sales",
-      "link_2_destination": "https://www.telesign.com/contact-sales"
+      "link_1_cta": "Start with a trial",
+      "link_1_url": "https://portal.telesign.com/signup",
+      "link_2_cta": "Talk to sales",
+      "link_2_url": "https://www.telesign.com/contact-sales"
     },
     {
       "country": "Afghanistan",
@@ -7797,10 +7797,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Albania",
@@ -7820,10 +7820,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Algeria",
@@ -7843,10 +7843,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Andorra",
@@ -7866,10 +7866,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Angola",
@@ -7889,10 +7889,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Argentina",
@@ -7912,10 +7912,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Armenia",
@@ -7935,10 +7935,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Aruba",
@@ -7958,10 +7958,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Australia",
@@ -7981,10 +7981,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Austria",
@@ -8004,10 +8004,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Azerbaijan",
@@ -8027,10 +8027,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Bahrain",
@@ -8050,10 +8050,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Bangladesh",
@@ -8073,10 +8073,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Belarus",
@@ -8096,10 +8096,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Belgium",
@@ -8119,10 +8119,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Belize",
@@ -8142,10 +8142,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Benin",
@@ -8165,10 +8165,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Bhutan",
@@ -8188,10 +8188,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Bolivia",
@@ -8211,10 +8211,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Bonaire, Sabo & St. Eustacius",
@@ -8234,10 +8234,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Bosnia and Herzegovina",
@@ -8257,10 +8257,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Botswana",
@@ -8280,10 +8280,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Brazil",
@@ -8303,10 +8303,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Brunei Darussalam",
@@ -8326,10 +8326,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Bulgaria",
@@ -8349,10 +8349,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Burkina Faso",
@@ -8372,10 +8372,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Burundi",
@@ -8395,10 +8395,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Cambodia",
@@ -8418,10 +8418,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Cameroon",
@@ -8441,10 +8441,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Cape Verde",
@@ -8464,10 +8464,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Central African Republic",
@@ -8487,10 +8487,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Chad",
@@ -8510,10 +8510,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Chile",
@@ -8533,10 +8533,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "China",
@@ -8556,10 +8556,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Colombia",
@@ -8579,10 +8579,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Comoros",
@@ -8602,10 +8602,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Congo",
@@ -8625,10 +8625,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Cook Islands",
@@ -8648,10 +8648,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Costa Rica",
@@ -8671,10 +8671,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Croatia",
@@ -8694,10 +8694,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Cuba",
@@ -8717,10 +8717,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Curacao",
@@ -8740,10 +8740,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Cyprus",
@@ -8763,10 +8763,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Czech Republic",
@@ -8786,10 +8786,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Democratic Republic of the Congo",
@@ -8809,10 +8809,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Denmark",
@@ -8832,10 +8832,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Djibouti",
@@ -8855,10 +8855,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Dominican Republic",
@@ -8878,10 +8878,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "East Timor",
@@ -8901,10 +8901,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Ecuador",
@@ -8924,10 +8924,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Egypt",
@@ -8947,10 +8947,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "El Salvador",
@@ -8970,10 +8970,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Equatorial Guinea",
@@ -8993,10 +8993,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Eritrea",
@@ -9016,10 +9016,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Estonia",
@@ -9039,10 +9039,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Ethiopia",
@@ -9062,10 +9062,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Falkland Islands",
@@ -9085,10 +9085,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Faroe Islands",
@@ -9108,10 +9108,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Fiji",
@@ -9131,10 +9131,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Finland",
@@ -9154,10 +9154,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "France",
@@ -9177,10 +9177,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "French Guiana",
@@ -9200,10 +9200,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "French Polynesia",
@@ -9223,10 +9223,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Gabon",
@@ -9246,10 +9246,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Gambia",
@@ -9269,10 +9269,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Georgia",
@@ -9292,10 +9292,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Ghana",
@@ -9315,10 +9315,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Gibraltar",
@@ -9338,10 +9338,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Greece",
@@ -9361,10 +9361,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Greenland",
@@ -9384,10 +9384,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Guadeloupe",
@@ -9407,10 +9407,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Guam",
@@ -9430,10 +9430,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Guatemala",
@@ -9453,10 +9453,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Guinea",
@@ -9476,10 +9476,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Guinea-Bissau",
@@ -9499,10 +9499,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Guyana",
@@ -9522,10 +9522,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Haiti",
@@ -9545,10 +9545,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Honduras",
@@ -9568,10 +9568,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Hong Kong",
@@ -9591,10 +9591,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Hungary",
@@ -9614,10 +9614,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Iceland",
@@ -9637,10 +9637,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "India",
@@ -9660,10 +9660,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Indonesia",
@@ -9683,10 +9683,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Iran",
@@ -9706,10 +9706,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Iraq",
@@ -9729,10 +9729,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Ireland",
@@ -9752,10 +9752,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Israel",
@@ -9775,10 +9775,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Italy",
@@ -9798,10 +9798,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Jordan",
@@ -9821,10 +9821,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Kazakhstan",
@@ -9844,10 +9844,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Kenya",
@@ -9867,10 +9867,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Kiribati",
@@ -9890,10 +9890,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Kosovo",
@@ -9913,10 +9913,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Kuwait",
@@ -9936,10 +9936,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Kyrgyzstan",
@@ -9959,10 +9959,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Lao",
@@ -9982,10 +9982,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Latvia",
@@ -10005,10 +10005,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Lebanon",
@@ -10028,10 +10028,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Lesotho",
@@ -10051,10 +10051,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Liberia",
@@ -10074,10 +10074,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Libya",
@@ -10097,10 +10097,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Liechtenstein",
@@ -10120,10 +10120,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Lithuania",
@@ -10143,10 +10143,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Luxembourg",
@@ -10166,10 +10166,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Macao",
@@ -10189,10 +10189,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Macedonia",
@@ -10212,10 +10212,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Madagascar",
@@ -10235,10 +10235,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Malawi",
@@ -10258,10 +10258,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Malaysia",
@@ -10281,10 +10281,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Maldives",
@@ -10304,10 +10304,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Mali",
@@ -10327,10 +10327,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Malta",
@@ -10350,10 +10350,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Marshall Islands",
@@ -10373,10 +10373,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Martinique",
@@ -10396,10 +10396,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Mauritania",
@@ -10419,10 +10419,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Mauritius",
@@ -10442,10 +10442,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Mayotte",
@@ -10465,10 +10465,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Mexico",
@@ -10488,10 +10488,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Micronesia",
@@ -10511,10 +10511,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Moldova",
@@ -10534,10 +10534,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Monaco",
@@ -10557,10 +10557,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Mongolia",
@@ -10580,10 +10580,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Montenegro",
@@ -10603,10 +10603,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Morocco",
@@ -10626,10 +10626,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Mozambique",
@@ -10649,10 +10649,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Myanmar",
@@ -10672,10 +10672,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Namibia",
@@ -10695,10 +10695,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Nauru",
@@ -10718,10 +10718,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Nepal",
@@ -10741,10 +10741,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Netherlands",
@@ -10764,10 +10764,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "New Caledonia",
@@ -10787,10 +10787,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "New Zealand",
@@ -10810,10 +10810,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Niger",
@@ -10833,10 +10833,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Nigeria",
@@ -10856,10 +10856,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Niue",
@@ -10879,10 +10879,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Norfolk Island",
@@ -10902,10 +10902,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Norway",
@@ -10925,10 +10925,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Oman",
@@ -10948,10 +10948,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Pakistan",
@@ -10971,10 +10971,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Palau",
@@ -10994,10 +10994,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Palestine",
@@ -11017,10 +11017,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Panama",
@@ -11040,10 +11040,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Papua New Guinea",
@@ -11063,10 +11063,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Peru",
@@ -11086,10 +11086,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Philippines",
@@ -11109,10 +11109,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Poland",
@@ -11132,10 +11132,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Portugal",
@@ -11155,10 +11155,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Puerto Rico",
@@ -11178,10 +11178,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Qatar",
@@ -11201,10 +11201,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Reunion",
@@ -11224,10 +11224,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Romania",
@@ -11247,10 +11247,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Russia",
@@ -11270,10 +11270,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Rwanda",
@@ -11293,10 +11293,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Saint Helena",
@@ -11316,10 +11316,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Saint Pierre and Miquelon",
@@ -11339,10 +11339,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Samoa",
@@ -11362,10 +11362,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "San Marino",
@@ -11385,10 +11385,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Sao Tome and Principe",
@@ -11408,10 +11408,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Saudi Arabia",
@@ -11431,10 +11431,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Senegal",
@@ -11454,10 +11454,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Serbia",
@@ -11477,10 +11477,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Seychelles",
@@ -11500,10 +11500,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Sierra Leone",
@@ -11523,10 +11523,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Singapore",
@@ -11546,10 +11546,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Sint Maarten",
@@ -11569,10 +11569,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Slovakia",
@@ -11592,10 +11592,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Slovenia",
@@ -11615,10 +11615,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Solomon Islands",
@@ -11638,10 +11638,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Somalia",
@@ -11661,10 +11661,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "South Africa",
@@ -11684,10 +11684,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "South Korea",
@@ -11707,10 +11707,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "South Sudan",
@@ -11730,10 +11730,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Spain",
@@ -11753,10 +11753,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Sri Lanka",
@@ -11776,10 +11776,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Sudan",
@@ -11799,10 +11799,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Suriname",
@@ -11822,10 +11822,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Swaziland",
@@ -11845,10 +11845,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Sweden",
@@ -11868,10 +11868,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Switzerland",
@@ -11891,10 +11891,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Syria",
@@ -11914,10 +11914,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Taiwan",
@@ -11937,10 +11937,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Tajikistan",
@@ -11960,10 +11960,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Tanzania",
@@ -11983,10 +11983,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Thailand",
@@ -12006,10 +12006,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Togo",
@@ -12029,10 +12029,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Tonga",
@@ -12052,10 +12052,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Tunisia",
@@ -12075,10 +12075,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Turkey",
@@ -12098,10 +12098,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Tuvalu",
@@ -12121,10 +12121,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Uganda",
@@ -12144,10 +12144,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Ukraine",
@@ -12167,10 +12167,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "United Arab Emirates",
@@ -12190,10 +12190,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Uzbekistan",
@@ -12213,10 +12213,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Vanuatu",
@@ -12236,10 +12236,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Vietnam",
@@ -12259,10 +12259,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Wallis and Futuna",
@@ -12282,10 +12282,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Yemen",
@@ -12305,10 +12305,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Zambia",
@@ -12328,10 +12328,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Zimbabwe",
@@ -12351,10 +12351,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": "Talk to sales",
-      "link_1_destination": "https://www.telesign.com/contact-sales",
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": "Talk to sales",
+      "link_1_url": "https://www.telesign.com/contact-sales",
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "American Samoa",
@@ -12374,10 +12374,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Anguilla",
@@ -12397,10 +12397,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Antigua and Barbuda",
@@ -12420,10 +12420,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Ascension",
@@ -12443,10 +12443,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Bahamas",
@@ -12466,10 +12466,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Barbados",
@@ -12489,10 +12489,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Bermuda",
@@ -12512,10 +12512,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "British Virgin Islands",
@@ -12535,10 +12535,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Cayman Islands",
@@ -12558,10 +12558,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Cote d'Ivoire",
@@ -12581,10 +12581,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Diego Garcia",
@@ -12604,10 +12604,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Dominica",
@@ -12627,10 +12627,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Grenada",
@@ -12650,10 +12650,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Jamaica",
@@ -12673,10 +12673,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Japan",
@@ -12696,10 +12696,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": "Talk to sales",
-      "link_2_destination": "https://www.telesign.com/contact-sales"
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": "Talk to sales",
+      "link_2_url": "https://www.telesign.com/contact-sales"
     },
     {
       "country": "Montserrat",
@@ -12719,10 +12719,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Nicaragua",
@@ -12742,10 +12742,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Northern Mariana Islands",
@@ -12765,10 +12765,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Paraguay",
@@ -12788,10 +12788,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Saint Kitts and Nevis",
@@ -12811,10 +12811,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Saint Lucia",
@@ -12834,10 +12834,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Saint Vincent and the Grenadines",
@@ -12857,10 +12857,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Tokelau",
@@ -12880,10 +12880,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Trinidad and Tobago",
@@ -12903,10 +12903,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Turkmenistan",
@@ -12926,10 +12926,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Turks and Caicos Islands",
@@ -12949,10 +12949,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "U.S. Virgin Islands",
@@ -12972,10 +12972,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Uruguay",
@@ -12995,10 +12995,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Vatican City State",
@@ -13018,10 +13018,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     },
     {
       "country": "Venezuela",
@@ -13041,10 +13041,10 @@
       "toll_free_number_description": null,
       "toll_free_number_setup_pricing": null,
       "toll_free_number_recurring_pricing": null,
-      "link_1_label": null,
-      "link_1_destination": null,
-      "link_2_label": null,
-      "link_2_destination": null
+      "link_1_cta": null,
+      "link_1_url": null,
+      "link_2_cta": null,
+      "link_2_url": null
     }
   ]
 }
