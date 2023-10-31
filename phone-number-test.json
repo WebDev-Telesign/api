@@ -7718,8 +7718,8 @@
       "toll_free_number": {
         "label": "Toll free number (TFN)",
         "description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
-        "setup_pricing": 1.5,
-        "recurring_pricing": 1.5,
+        "setup_pricing": "setup 1.5",
+        "recurring_pricing": "recurrinhg 1.5",
         "link_1_cta": "Start with a trial",
         "link_1_url": "https://portal.telesign.com/signup",
         "link_2_cta": "Request TFN in your account",
