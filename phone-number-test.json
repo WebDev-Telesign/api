@@ -7784,8 +7784,12 @@
       "dedicated_long_codes": {
         "label": "Dedicated long code (DLC)",
         "description": "Use to send SMS one-time passcodes (OTPs), recurring alerts, and marketing messages. Supports two-way traffic.",
+        "setup_pricing": "$1.50 setup fee"
+        "recurring_pricing": "$1.50 monthly fee",
         "link_1_cta": "Start with a trial",
         "link_1_url": "https://portal.telesign.com/signup"
+        "link_2_cta": "Request DLC in your account",
+        "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
       },
       "alpha_numerics": {
         "label": null,
