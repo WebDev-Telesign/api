@@ -7787,7 +7787,7 @@
         "setup_pricing": "$1.50 setup fee",
         "recurring_pricing": "$1.50 monthly fee",
         "link_1_cta": "Start with a trial",
-        "link_1_url": "https://portal.telesign.com/signup"
+        "link_1_url": "https://portal.telesign.com/signup",
         "link_2_cta": "Request DLC in your account",
         "link_2_url": "https://my.telesign.com/sender-id-purchase/step1"
       },
