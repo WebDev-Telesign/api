@@ -16157,8 +16157,8 @@
       "numeric_sender": {
         "label": "Generic numeric sender IDs",
         "description": "No sender ID registration is required for this destination. Telesign customers can send SMS messages to this destination by using our default shared generic sender IDs.",
-        "link_1_cta": "Talk to sales",
-        "link_1_url": "https://www.telesign.com/contact-sales"
+        "link_1_cta": "Start a trial",
+        "link_1_url": "https://portal.telesign.com/signup"
       },
       "dedicated_short_codes": {
         "label": "Dedicated short codes (DSCs)",
