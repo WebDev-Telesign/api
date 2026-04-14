@@ -5,7 +5,7 @@
       "country_code": "US",
       "country_flag": "🇺🇸",
       "allowed_to_create_trial": "Yes",
-      "sms_pricing": 0.0082,
+      "sms_pricing": 0.009,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -15,7 +15,7 @@
       "country_code": "IN",
       "country_flag": "🇮🇳",
       "allowed_to_create_trial": "Yes",
-      "sms_pricing": 0.0559,
+      "sms_pricing": 0.0582,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -375,7 +375,7 @@
       "country_code": "EC",
       "country_flag": "🇪🇨",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.1973,
+      "sms_pricing": 0.3,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -385,7 +385,7 @@
       "country_code": "CL",
       "country_flag": "🇨🇱",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.015686275,
+      "sms_pricing": 0.0157,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -505,7 +505,7 @@
       "country_code": "DZ",
       "country_flag": "🇩🇿",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2987,
+      "sms_pricing": 0.2819,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -615,7 +615,7 @@
       "country_code": "KG",
       "country_flag": "🇰🇬",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.438,
+      "sms_pricing": 0.455,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -735,7 +735,7 @@
       "country_code": "FI",
       "country_flag": "🇫🇮",
       "allowed_to_create_trial": "Yes",
-      "sms_pricing": 0.0911,
+      "sms_pricing": 0.0939,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -955,7 +955,7 @@
       "country_code": "LB",
       "country_flag": "🇱🇧",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.5018,
+      "sms_pricing": 0.517,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1075,7 +1075,7 @@
       "country_code": "HR",
       "country_flag": "🇭🇷",
       "allowed_to_create_trial": "Yes",
-      "sms_pricing": 0.0733,
+      "sms_pricing": 0.1051,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1125,7 +1125,7 @@
       "country_code": "TN",
       "country_flag": "🇹🇳",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.694137931,
+      "sms_pricing": 0.6941,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1145,7 +1145,7 @@
       "country_code": "ZW",
       "country_flag": "🇿🇼",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.315,
+      "sms_pricing": 0.3291,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1165,7 +1165,7 @@
       "country_code": "ZM",
       "country_flag": "🇿🇲",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.57,
+      "sms_pricing": 0.5979,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1205,7 +1205,7 @@
       "country_code": "AO",
       "country_flag": "🇦🇴",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.052,
+      "sms_pricing": 0.19,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1275,7 +1275,7 @@
       "country_code": "HT",
       "country_flag": "🇭🇹",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.396,
+      "sms_pricing": 0.4037,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1335,7 +1335,7 @@
       "country_code": "BA",
       "country_flag": "🇧🇦",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.414,
+      "sms_pricing": 0.2628,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1345,7 +1345,7 @@
       "country_code": "GP",
       "country_flag": "🇬🇵",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.0987,
+      "sms_pricing": 0.26,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1385,7 +1385,7 @@
       "country_code": "BW",
       "country_flag": "🇧🇼",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.0671,
+      "sms_pricing": 0.0871,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1445,7 +1445,7 @@
       "country_code": "GF",
       "country_flag": "🇬🇫",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.1238,
+      "sms_pricing": 0.29,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1465,7 +1465,7 @@
       "country_code": "GA",
       "country_flag": "🇬🇦",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.3671,
+      "sms_pricing": 0.3546,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1545,7 +1545,7 @@
       "country_code": "MQ",
       "country_flag": "🇲🇶",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.1109,
+      "sms_pricing": 0.26,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1575,7 +1575,7 @@
       "country_code": "BB",
       "country_flag": "🇧🇧",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2671,
+      "sms_pricing": 0.2799,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1635,7 +1635,7 @@
       "country_code": "PG",
       "country_flag": "🇵🇬",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2592,
+      "sms_pricing": 0.2731,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1685,7 +1685,7 @@
       "country_code": "ME",
       "country_flag": "🇲🇪",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.1832,
+      "sms_pricing": 0.1922,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1695,7 +1695,7 @@
       "country_code": "LR",
       "country_flag": "🇱🇷",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2895,
+      "sms_pricing": 0.2751,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1725,7 +1725,7 @@
       "country_code": "SR",
       "country_flag": "🇸🇷",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2654,
+      "sms_pricing": 0.269,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1735,7 +1735,7 @@
       "country_code": "BI",
       "country_flag": "🇧🇮",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.3016,
+      "sms_pricing": 0.5137,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1835,7 +1835,7 @@
       "country_code": "GQ",
       "country_flag": "🇬🇶",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2999,
+      "sms_pricing": 0.2784,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1855,7 +1855,7 @@
       "country_code": "BM",
       "country_flag": "🇧🇲",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2747,
+      "sms_pricing": 0.2879,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1865,7 +1865,7 @@
       "country_code": "AW",
       "country_flag": "🇦🇼",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2035,
+      "sms_pricing": 0.1273,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1875,7 +1875,7 @@
       "country_code": "VC",
       "country_flag": "🇻🇨",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2747,
+      "sms_pricing": 0.2611,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -2005,7 +2005,7 @@
       "country_code": "TC",
       "country_flag": "🇹🇨",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2887,
+      "sms_pricing": 0.2773,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -2135,7 +2135,7 @@
       "country_code": "BQ",
       "country_flag": "🇧🇶",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.324,
+      "sms_pricing": 0.3113,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -2185,7 +2185,7 @@
       "country_code": "CK",
       "country_flag": "🇨🇰",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.1725,
+      "sms_pricing": 0.1819,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -2235,7 +2235,7 @@
       "country_code": "MH",
       "country_flag": "🇲🇭",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.1725,
+      "sms_pricing": 0.1819,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -2245,7 +2245,7 @@
       "country_code": "WF",
       "country_flag": "🇼🇫",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.177,
+      "sms_pricing": 0.1819,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -2337,22 +2337,24 @@
       "country_code": "US",
       "country_flag": "🇺🇸",
       "allowed_to_create_trial": "Yes",
-      "sms_verify_pricing": 0.0082,
+      "sms_verify_pricing": 0.009,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "India",
       "country_code": "IN",
       "country_flag": "🇮🇳",
       "allowed_to_create_trial": "Yes",
-      "sms_verify_pricing": 0.0559,
+      "sms_verify_pricing": 0.0582,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Mexico",
@@ -2363,7 +2365,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Turkey",
@@ -2374,7 +2377,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Brazil",
@@ -2385,7 +2389,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Japan",
@@ -2396,7 +2401,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "China",
@@ -2407,7 +2413,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Canada",
@@ -2418,7 +2425,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Russia",
@@ -2429,7 +2437,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Indonesia",
@@ -2440,7 +2449,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "France",
@@ -2451,7 +2461,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Vietnam",
@@ -2462,7 +2473,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Colombia",
@@ -2473,7 +2485,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Australia",
@@ -2484,7 +2497,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "United Kingdom",
@@ -2495,7 +2509,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Spain",
@@ -2506,7 +2521,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Philippines",
@@ -2517,7 +2533,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Saudi Arabia",
@@ -2528,7 +2545,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Germany",
@@ -2539,7 +2557,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Italy",
@@ -2550,7 +2569,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "United Arab Emirates",
@@ -2561,7 +2581,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Puerto Rico",
@@ -2572,7 +2593,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Iran",
@@ -2583,7 +2605,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Egypt",
@@ -2594,7 +2617,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Argentina",
@@ -2605,7 +2629,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Pakistan",
@@ -2616,7 +2641,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "South Korea",
@@ -2627,7 +2653,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Nigeria",
@@ -2638,7 +2665,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Thailand",
@@ -2649,7 +2677,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Iraq",
@@ -2660,7 +2689,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Bangladesh",
@@ -2671,7 +2701,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Peru",
@@ -2682,7 +2713,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Netherlands",
@@ -2693,7 +2725,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "South Africa",
@@ -2704,7 +2737,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Malaysia",
@@ -2715,7 +2749,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Ukraine",
@@ -2726,7 +2761,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Poland",
@@ -2737,18 +2773,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Ecuador",
       "country_code": "EC",
       "country_flag": "🇪🇨",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.1973,
+      "sms_verify_pricing": 0.3,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Chile",
@@ -2759,7 +2797,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Nepal",
@@ -2770,7 +2809,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Kenya",
@@ -2781,7 +2821,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Belgium",
@@ -2792,7 +2833,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Morocco",
@@ -2803,7 +2845,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Kuwait",
@@ -2814,7 +2857,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Singapore",
@@ -2825,7 +2869,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Taiwan",
@@ -2836,7 +2881,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Kazakhstan",
@@ -2847,7 +2893,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Israel",
@@ -2858,7 +2905,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Austria",
@@ -2869,7 +2917,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Venezuela",
@@ -2880,18 +2929,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Algeria",
       "country_code": "DZ",
       "country_flag": "🇩🇿",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2987,
+      "sms_verify_pricing": 0.2819,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Romania",
@@ -2902,7 +2953,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Sweden",
@@ -2913,7 +2965,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Ireland",
@@ -2924,7 +2977,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "New Zealand",
@@ -2935,7 +2989,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Costa Rica",
@@ -2946,7 +3001,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Portugal",
@@ -2957,7 +3013,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Hong Kong",
@@ -2968,7 +3025,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Dominican Republic",
@@ -2979,7 +3037,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Denmark",
@@ -2990,7 +3049,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Switzerland",
@@ -3001,18 +3061,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Kyrgyzstan",
       "country_code": "KG",
       "country_flag": "🇰🇬",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.438,
+      "sms_verify_pricing": 0.455,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Sri Lanka",
@@ -3023,7 +3085,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Czech Republic",
@@ -3034,7 +3097,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Oman",
@@ -3045,7 +3109,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Azerbaijan",
@@ -3056,7 +3121,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Bolivia",
@@ -3067,7 +3133,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Norway",
@@ -3078,7 +3145,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Somalia",
@@ -3089,7 +3157,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Cambodia",
@@ -3100,7 +3169,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Cote d'Ivoire",
@@ -3111,7 +3181,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Myanmar",
@@ -3122,7 +3193,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Sudan",
@@ -3133,18 +3205,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Finland",
       "country_code": "FI",
       "country_flag": "🇫🇮",
       "allowed_to_create_trial": "Yes",
-      "sms_verify_pricing": 0.0911,
+      "sms_verify_pricing": 0.0939,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Jordan",
@@ -3155,7 +3229,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Uzbekistan",
@@ -3166,7 +3241,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Ghana",
@@ -3177,7 +3253,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Greece",
@@ -3188,7 +3265,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Qatar",
@@ -3199,7 +3277,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Syria",
@@ -3210,7 +3289,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Mongolia",
@@ -3221,7 +3301,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Hungary",
@@ -3232,7 +3313,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Latvia",
@@ -3243,7 +3325,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Guatemala",
@@ -3254,7 +3337,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Panama",
@@ -3265,7 +3349,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Serbia",
@@ -3276,7 +3361,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Cameroon",
@@ -3287,7 +3373,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Democratic Republic of the Congo",
@@ -3298,7 +3385,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Bulgaria",
@@ -3309,7 +3397,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Senegal",
@@ -3320,7 +3409,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Yemen",
@@ -3331,7 +3421,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Mozambique",
@@ -3342,7 +3433,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Benin",
@@ -3353,7 +3445,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Libya",
@@ -3364,7 +3457,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Uruguay",
@@ -3375,18 +3469,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Lebanon",
       "country_code": "LB",
       "country_flag": "🇱🇧",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.5018,
+      "sms_verify_pricing": 0.517,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Belarus",
@@ -3397,7 +3493,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Honduras",
@@ -3408,7 +3505,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Uganda",
@@ -3419,7 +3517,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Ethiopia",
@@ -3430,7 +3529,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "El Salvador",
@@ -3441,7 +3541,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Bahrain",
@@ -3452,7 +3553,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Slovakia",
@@ -3463,7 +3565,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Cuba",
@@ -3474,7 +3577,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Luxembourg",
@@ -3485,7 +3589,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Georgia",
@@ -3496,7 +3601,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Afghanistan",
@@ -3507,18 +3613,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Croatia",
       "country_code": "HR",
       "country_flag": "🇭🇷",
       "allowed_to_create_trial": "Yes",
-      "sms_verify_pricing": 0.0733,
+      "sms_verify_pricing": 0.1051,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "East Timor",
@@ -3529,7 +3637,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Lithuania",
@@ -3540,7 +3649,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Jamaica",
@@ -3551,7 +3661,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Tanzania",
@@ -3562,7 +3673,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Tunisia",
@@ -3573,7 +3685,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Nicaragua",
@@ -3584,18 +3697,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Zimbabwe",
       "country_code": "ZW",
       "country_flag": "🇿🇼",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.315,
+      "sms_verify_pricing": 0.3291,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Zambia",
@@ -3606,7 +3721,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Estonia",
@@ -3617,7 +3733,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Madagascar",
@@ -3628,7 +3745,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Trinidad and Tobago",
@@ -3639,18 +3757,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Angola",
       "country_code": "AO",
       "country_flag": "🇦🇴",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.052,
+      "sms_verify_pricing": 0.19,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Albania",
@@ -3661,7 +3781,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Paraguay",
@@ -3672,7 +3793,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Laos",
@@ -3683,7 +3805,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Armenia",
@@ -3694,7 +3817,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Eritrea",
@@ -3705,7 +3829,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Moldova",
@@ -3716,7 +3841,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Haiti",
@@ -3727,7 +3853,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Slovenia",
@@ -3738,7 +3865,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Mali",
@@ -3749,7 +3877,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Burkina Faso",
@@ -3760,7 +3889,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Mauritius",
@@ -3771,7 +3901,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Malta",
@@ -3782,29 +3913,32 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Bosnia and Herzegovina",
       "country_code": "BA",
       "country_flag": "🇧🇦",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.414,
+      "sms_verify_pricing": 0.2628,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Guadeloupe",
       "country_code": "GP",
       "country_flag": "🇬🇵",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.0987,
+      "sms_verify_pricing": 0.26,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Tajikistan",
@@ -3815,7 +3949,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Kosovo",
@@ -3826,7 +3961,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Bahamas",
@@ -3837,18 +3973,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Botswana",
       "country_code": "BW",
       "country_flag": "🇧🇼",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.0671,
+      "sms_verify_pricing": 0.0871,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Turkmenistan",
@@ -3859,7 +3997,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Cyprus",
@@ -3870,7 +4009,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Togo",
@@ -3881,7 +4021,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Macedonia",
@@ -3892,7 +4033,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Macao",
@@ -3903,18 +4045,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "French Guiana",
       "country_code": "GF",
       "country_flag": "🇬🇫",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.1238,
+      "sms_verify_pricing": 0.29,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Namibia",
@@ -3925,18 +4069,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Gabon",
       "country_code": "GA",
       "country_flag": "🇬🇦",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.3671,
+      "sms_verify_pricing": 0.3546,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Palestine",
@@ -3947,7 +4093,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Mauritania",
@@ -3958,7 +4105,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Guyana",
@@ -3969,7 +4117,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Rwanda",
@@ -3980,7 +4129,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Niger",
@@ -3991,7 +4141,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Maldives",
@@ -4002,7 +4153,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Guinea",
@@ -4013,18 +4165,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Martinique",
       "country_code": "MQ",
       "country_flag": "🇲🇶",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.1109,
+      "sms_verify_pricing": 0.26,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Monaco",
@@ -4035,7 +4189,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Sierra Leone",
@@ -4046,18 +4201,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Barbados",
       "country_code": "BB",
       "country_flag": "🇧🇧",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2671,
+      "sms_verify_pricing": 0.2799,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Guam",
@@ -4068,7 +4225,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "New Caledonia",
@@ -4079,7 +4237,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Malawi",
@@ -4090,7 +4249,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Congo",
@@ -4101,7 +4261,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Iceland",
@@ -4112,18 +4273,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Papua New Guinea",
       "country_code": "PG",
       "country_flag": "🇵🇬",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2592,
+      "sms_verify_pricing": 0.2731,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "U.S. Virgin Islands",
@@ -4134,7 +4297,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Chad",
@@ -4145,7 +4309,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Lesotho",
@@ -4156,7 +4321,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Gambia",
@@ -4167,18 +4333,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Montenegro",
       "country_code": "ME",
       "country_flag": "🇲🇪",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.1832,
+      "sms_verify_pricing": 0.1922,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Liberia",
@@ -4189,7 +4357,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Brunei Darussalam",
@@ -4200,7 +4369,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Mayotte",
@@ -4211,29 +4381,32 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Suriname",
       "country_code": "SR",
       "country_flag": "🇸🇷",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2654,
+      "sms_verify_pricing": 0.269,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Burundi",
       "country_code": "BI",
       "country_flag": "🇧🇮",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.3016,
+      "sms_verify_pricing": 0.5137,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Bhutan",
@@ -4244,7 +4417,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Cape Verde",
@@ -4255,7 +4429,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Djibouti",
@@ -4266,7 +4441,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "South Sudan",
@@ -4277,7 +4453,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Saint Lucia",
@@ -4288,7 +4465,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "French Polynesia",
@@ -4299,7 +4477,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Fiji",
@@ -4310,7 +4489,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Belize",
@@ -4321,7 +4501,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Cayman Islands",
@@ -4332,18 +4513,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Equatorial Guinea",
       "country_code": "GQ",
       "country_flag": "🇬🇶",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2999,
+      "sms_verify_pricing": 0.2784,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Central African Republic",
@@ -4354,40 +4537,44 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Bermuda",
       "country_code": "BM",
       "country_flag": "🇧🇲",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2747,
+      "sms_verify_pricing": 0.2879,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Aruba",
       "country_code": "AW",
       "country_flag": "🇦🇼",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2035,
+      "sms_verify_pricing": 0.1273,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Saint Vincent and the Grenadines",
       "country_code": "VC",
       "country_flag": "🇻🇨",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2747,
+      "sms_verify_pricing": 0.2611,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Samoa",
@@ -4398,7 +4585,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Saint Kitts and Nevis",
@@ -4409,7 +4597,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Greenland",
@@ -4420,7 +4609,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Dominica",
@@ -4431,7 +4621,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Antigua and Barbuda",
@@ -4442,7 +4633,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Comoros",
@@ -4453,7 +4645,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Curaçao",
@@ -4464,7 +4657,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Guinea-Bissau",
@@ -4475,7 +4669,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Eswatini (Swaziland)",
@@ -4486,7 +4681,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Andorra",
@@ -4497,7 +4693,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Solomon Islands",
@@ -4508,7 +4705,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Seychelles",
@@ -4519,18 +4717,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Turks and Caicos Islands",
       "country_code": "TC",
       "country_flag": "🇹🇨",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2887,
+      "sms_verify_pricing": 0.2773,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Grenada",
@@ -4541,7 +4741,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Montserrat",
@@ -4552,7 +4753,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Gibraltar",
@@ -4563,7 +4765,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Sint Maarten",
@@ -4574,7 +4777,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "American Samoa",
@@ -4585,7 +4789,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Northern Mariana Islands",
@@ -4596,7 +4801,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "British Virgin Islands",
@@ -4607,7 +4813,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Faroe Islands",
@@ -4618,7 +4825,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Tonga",
@@ -4629,7 +4837,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Liechtenstein",
@@ -4640,7 +4849,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Vanuatu",
@@ -4651,7 +4861,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Anguilla",
@@ -4662,18 +4873,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Bonaire, Sabo & St. Eustacius",
       "country_code": "BQ",
       "country_flag": "🇧🇶",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.324,
+      "sms_verify_pricing": 0.3113,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Falkland Islands",
@@ -4684,7 +4897,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Palau",
@@ -4695,7 +4909,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Saint Pierre and Miquelon",
@@ -4706,7 +4921,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Kiribati",
@@ -4717,18 +4933,20 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Cook Islands",
       "country_code": "CK",
       "country_flag": "🇨🇰",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.1725,
+      "sms_verify_pricing": 0.1819,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Norfolk Island",
@@ -4739,7 +4957,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Tuvalu",
@@ -4750,7 +4969,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "São Tomé and Príncipe ",
@@ -4761,7 +4981,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Micronesia",
@@ -4772,29 +4993,32 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Marshall Islands",
       "country_code": "MH",
       "country_flag": "🇲🇭",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.1725,
+      "sms_verify_pricing": 0.1819,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Wallis and Futuna",
       "country_code": "WF",
       "country_flag": "🇼🇫",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.177,
+      "sms_verify_pricing": 0.1819,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Saint Helena",
@@ -4805,7 +5029,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Tokelau",
@@ -4816,7 +5041,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Diego Garcia",
@@ -4827,7 +5053,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Nauru",
@@ -4838,7 +5065,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "San Marino",
@@ -4849,7 +5077,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Ascension",
@@ -4860,7 +5089,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Niue",
@@ -4871,7 +5101,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     },
     {
       "country": "Vatican City State",
@@ -4882,7 +5113,8 @@
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
-      "voice_verify_pricing": "Talk to sales"
+      "voice_verify_pricing": "Talk to sales",
+      "__EMPTY": null
     }
   ],
   "Identity": [
