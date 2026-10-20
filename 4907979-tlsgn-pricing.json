@@ -295,7 +295,7 @@
       "country_code": "IQ",
       "country_flag": "🇮🇶",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.3832,
+      "sms_pricing": 0.4588,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -495,7 +495,7 @@
       "country_code": "VE",
       "country_flag": "🇻🇪",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.2097,
+      "sms_pricing": 0.2586,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -505,7 +505,7 @@
       "country_code": "DZ",
       "country_flag": "🇩🇿",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.3135,
+      "sms_pricing": 0.3219,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -895,7 +895,7 @@
       "country_code": "SN",
       "country_flag": "🇸🇳",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.5255,
+      "sms_pricing": 0.5944,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1245,7 +1245,7 @@
       "country_code": "AM",
       "country_flag": "🇦🇲",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.3175,
+      "sms_pricing": 0.3902,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1565,7 +1565,7 @@
       "country_code": "SL",
       "country_flag": "🇸🇱",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.5983,
+      "sms_pricing": 0.627,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1685,7 +1685,7 @@
       "country_code": "ME",
       "country_flag": "🇲🇪",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.201,
+      "sms_pricing": 0.228,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1875,7 +1875,7 @@
       "country_code": "VC",
       "country_flag": "🇻🇨",
       "allowed_to_create_trial": null,
-      "sms_pricing": 0.3055,
+      "sms_pricing": 0.3142,
       "voice_pricing": "Talk to sales",
       "phone_numbers_pricing": "Download pricing",
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
@@ -1961,7 +1961,7 @@
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
     },
     {
-      "country": "Eswatini(Swazilend)",
+      "country": "Eswatini(Swazilend) ",
       "country_code": "SZ",
       "country_flag": "🇸🇿",
       "allowed_to_create_trial": null,
@@ -2211,7 +2211,7 @@
       "phonenumber_download_link": "https://trust.telesign.com/rs/592-GWW-584/images/OP-Pricing-PhoneNumbers-en.xlsx"
     },
     {
-      "country": "São Tomé and Príncipe",
+      "country": "São Tomé and Príncipe ",
       "country_code": "ST",
       "country_flag": "🇸🇹",
       "allowed_to_create_trial": null,
@@ -2656,7 +2656,7 @@
       "country_code": "IQ",
       "country_flag": "🇮🇶",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.3832,
+      "sms_verify_pricing": 0.4588,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
@@ -2876,7 +2876,7 @@
       "country_code": "VE",
       "country_flag": "🇻🇪",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.2097,
+      "sms_verify_pricing": 0.2586,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
@@ -2887,7 +2887,7 @@
       "country_code": "DZ",
       "country_flag": "🇩🇿",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.3135,
+      "sms_verify_pricing": 0.3219,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
@@ -3316,7 +3316,7 @@
       "country_code": "SN",
       "country_flag": "🇸🇳",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.5255,
+      "sms_verify_pricing": 0.5944,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
@@ -4042,7 +4042,7 @@
       "country_code": "SL",
       "country_flag": "🇸🇱",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.5983,
+      "sms_verify_pricing": 0.627,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
@@ -4174,7 +4174,7 @@
       "country_code": "ME",
       "country_flag": "🇲🇪",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.201,
+      "sms_verify_pricing": 0.228,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
@@ -4383,7 +4383,7 @@
       "country_code": "VC",
       "country_flag": "🇻🇨",
       "allowed_to_create_trial": null,
-      "sms_verify_pricing": 0.3055,
+      "sms_verify_pricing": 0.3142,
       "verify_plus_pricing": 0.15,
       "missed_call_verification": "Talk to sales",
       "silent_verification_pricing": " Talk to sales ",
@@ -4753,7 +4753,7 @@
       "voice_verify_pricing": "Talk to sales"
     },
     {
-      "country": "São Tomé and Príncipe",
+      "country": "São Tomé and Príncipe ",
       "country_code": "ST",
       "country_flag": "🇸🇹",
       "allowed_to_create_trial": null,
